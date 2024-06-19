@@ -1,3 +1,1 @@
-nginx
-docker.io/ddsderek/xiaoya-emd
-docker.io/haroldli/xiaoya-tvbox
+docker.io/emby/embyserver
