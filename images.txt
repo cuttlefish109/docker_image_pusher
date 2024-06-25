@@ -1,1 +1,1 @@
-docker.io/emby/embyserver
+docker.io/homeassistant/home-assistant
