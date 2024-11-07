@@ -1,1 +1,2 @@
-docker.io/homeassistant/home-assistant
+docker.io/ourongxing/newsnow:latest
+ghcr.io/ourongxing/newsnow:latest
